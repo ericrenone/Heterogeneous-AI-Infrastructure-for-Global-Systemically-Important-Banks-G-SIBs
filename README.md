@@ -396,37 +396,5 @@ OpEx (Annual):
 | **2029** | Industry leadership | Competitive disadvantage |
 | **2030** | Standard practice | Strategic obsolescence |
 
----
 
-## Document Metadata
 
-- **Status**: June 30, 2026
-- **Scope**: G-SIB AI infrastructure strategic analysis
-- **Classification**: Confidential – G-SIB Board Level
-- **Confidence Level**: 82% (Hardware: 95%+; Regulatory: 90%+; Market: 75%+)
-- **Last Updated**: June 30, 2026
-- **Next Review**: December 2026
-
----
-
-## Key Sources & References
-
-### Hardware Validation
-- [d-Matrix Corsair Production Announcement](https://d-matrix.ai) (June 9, 2026)
-- [Gimlet Labs Inference Benchmarks](https://gimletlabs.com) (June 2026)
-- [OpenAI Jalapeño + Broadcom](https://openai.com) (June 24, 2026)
-- [CORVET (arXiv 2602.19268)](https://arxiv.org/abs/2602.19268) (Feb 2026)
-- [SYCore (arXiv 2503.11685)](https://arxiv.org/abs/2503.11685) (ISQED 2025)
-
-### Regulatory & Market
-- [Basel III Framework (BCBS)](https://www.bis.org)
-- [FCA AI Guidance](https://www.fca.org.uk) (2026)
-- [PRA Model Risk Management](https://www.bankofengland.co.uk) (2026)
-- [FinCEN AML Requirements](https://www.fincen.gov) (2026)
-- [Micron Q1 2026 Earnings (HBM Supply)](https://investors.micron.com)
-
----
-
-**🚀 Made by AI Infrastructure Community | June 2026**
-
-For questions or to discuss implementation: **Strategic AI Infrastructure Analysis for Financial Services**
